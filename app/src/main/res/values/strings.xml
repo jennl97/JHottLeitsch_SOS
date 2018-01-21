@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JHott-Leitsch_SOS</string>
+    <string name="name">My name is Jennifer Hott-Leitsch</string>
+    <string name="address">I live at 801 Stuyvesant Dr in Loves Park, Illinois</string>
+    <string name="emergency">In case of emergency, call Jason Leitsch</string>
+    <string name="ecPhone">847-815-5693</string>
+    <string name="medConditions">My medical conditions include:</string>
+    <string name="medConditions2">Asthma</string>
+    <string name="buttonClose">Close</string>
+</resources>
